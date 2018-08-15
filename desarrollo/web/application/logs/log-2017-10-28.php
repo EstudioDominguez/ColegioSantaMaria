@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-10-28 03:21:31 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 03:21:31 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-10-28 04:21:19 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 04:21:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-10-28 07:20:59 --> 404 Page Not Found --> 
+ERROR - 2017-10-28 09:47:42 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 09:47:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-10-28 11:01:07 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 11:01:07 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-10-28 13:00:44 --> 404 Page Not Found --> 
+ERROR - 2017-10-28 18:37:00 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 18:37:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-10-28 18:59:23 --> 404 Page Not Found --> 
+ERROR - 2017-10-28 18:59:27 --> 404 Page Not Found --> 
+ERROR - 2017-10-28 19:45:57 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 19:45:57 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-10-28 21:07:47 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-10-28 21:07:47 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1

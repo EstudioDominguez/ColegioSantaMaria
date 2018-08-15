@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Bicicleta Shimano",
+    "description": "A fast and fully-featured autocomplete library",
+    "id": "444",
+    "valor": "560",
+    "moneda": "$",    
+    "value": "Bicicleta Shimano",
+    "tokens": [
+      "Bicicleta",
+      "Shimano",
+      "111"
+    ]
+  },
+  {
+    "name": "Pedales Shimano",
+    "description": "A fast and fully-featured autocomplete library",
+    "id": "555",
+    "valor": "140",
+    "moneda": "$",    
+    "value": "Pedales Shimano",
+    "tokens": [
+      "Pedales",
+      "Shimano",
+      "222"
+    ]
+  },
+  {
+    "name": "Manubrios",
+    "description": "A Ruby client library for Scribe",
+    "id": "666",
+    "valor": "30",
+    "moneda": "$",    
+    "value": "Manubrios", 
+    "tokens": [
+      "manubrios",
+      "333"
+    ]
+  } 
+]

@@ -1,0 +1,63 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-07-08 07:16:41 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 07:16:41 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 07:16:41 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 07:16:41 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 07:16:41 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 07:16:41 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 07:17:07 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 07:17:07 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 07:17:07 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 07:17:07 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 07:17:07 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 07:17:07 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 07:30:56 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 07:30:56 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 07:30:56 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 07:30:56 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 07:30:56 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 07:30:56 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 07:49:51 --> 404 Page Not Found --> 
+ERROR - 2016-07-08 07:57:25 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 07:57:25 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 07:57:25 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 07:57:25 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 07:57:25 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 07:57:25 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 08:01:12 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 08:01:12 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 08:01:12 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 08:01:12 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 08:01:12 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 08:01:12 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 12:16:38 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 12:16:38 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 18:55:12 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 18:55:12 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 18:55:12 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 18:55:12 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 18:55:12 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 18:55:12 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 18:55:19 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 18:55:19 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 18:55:19 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 18:55:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 18:55:19 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 18:55:19 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 20:28:11 --> 404 Page Not Found --> 
+ERROR - 2016-07-08 20:36:29 --> 404 Page Not Found --> 
+ERROR - 2016-07-08 20:47:39 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 20:47:39 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 20:47:39 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 20:47:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 20:47:39 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 20:47:39 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 21:21:42 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 21:21:42 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 82
+ERROR - 2016-07-08 21:21:42 --> Severity: Notice  --> Undefined index: nivel_id /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 86
+ERROR - 2016-07-08 21:21:42 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2016-07-08 21:21:42 --> Severity: Notice  --> Undefined index: titulo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 14
+ERROR - 2016-07-08 21:21:42 --> Severity: Notice  --> Undefined index: cuerpo /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/views/noticia.php 57
+ERROR - 2016-07-08 23:12:27 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2016-07-08 23:12:27 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1

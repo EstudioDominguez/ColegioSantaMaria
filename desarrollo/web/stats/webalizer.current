@@ -1,0 +1,337 @@
+# Webalizer V2.23-05 Incremental Data - 04/15/2014 22:43:33
+2014 4 15 22 43 33
+407 328 43 12 13 16 4468519 110 36 0 0 0
+4 12 39 1 15
+16 12 186256 3 2 1 0 0
+28 27 197584 1 18 1 0 0
+41 35 408057 7 15 5 0 0
+32 24 379245 4 4 2 0 0
+35 27 366023 2 9 2 0 0
+4 2 3262 3 2 2 0 0
+50 36 543771 3 9 3 0 0
+13 11 180461 1 2 1 0 0
+37 31 388586 6 11 5 0 0
+7 5 68906 4 1 1 0 0
+28 26 433066 2 12 2 0 0
+18 14 201393 6 3 3 0 0
+29 24 363635 2 6 3 0 0
+51 39 546228 2 12 2 0 0
+18 15 202046 4 4 3 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+28 24 363206 6 0 0
+17 11 180032 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 7 26907 5 0 0
+0 0 0 0 0 0
+3 2 19301 0 0 0
+21 18 219902 6 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+18 12 181114 3 0 0
+19 17 248938 3 0 0
+0 0 0 0 0 0
+23 21 358862 3 0 0
+42 35 547591 7 0 0
+40 29 367931 12 0 0
+44 35 411029 13 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 1631 1 0 0
+54 48 558506 22 0 0
+67 53 798660 21 0 0
+17 15 184909 6 0 0
+0
+0
+0
+328
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+29
+0
+0
+0
+0
+0
+0
+48
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/js/jquery.js
+0 29 0 846820 0 0 0 0
+/assets/fonts/glyphicons-halflings-regular.woff
+0 2 0 32896 0 0 0 0
+/assets/images/banner.jpg
+1 23 0 1905090 0 0 0 0
+/assets/js//typeahead.js
+0 29 0 277757 0 0 0 0
+/assets/css/bootstrap.css
+0 27 0 450424 0 0 0 0
+/
+0 81 0 92290 36 2 0 0
+/assets/js/hogan-2.0.0.js
+0 29 0 114777 0 0 0 0
+/assets/js/bootstrap.min.js
+0 29 0 194522 0 0 0 0
+/assets/css/grid.css
+0 28 0 38556 0 0 0 0
+/assets/js/lib/jquery-ui.custom.min.js
+0 29 0 347902 0 0 0 0
+/usuarios/login
+0 29 0 35862 0 3 0 0
+/assets/images/singfb.png
+1 24 0 105271 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.65.245
+0 1 0 549 0 0 0 0
+-
+66.249.75.200
+0 1 0 549 0 0 0 0
+-
+181.0.31.215
+0 12 10 179379 1 1396883306 0 0
+/
+66.249.73.43
+0 2 1 5126 0 0 0 0
+-
+66.249.66.216
+0 1 0 549 0 0 0 0
+-
+66.249.76.53
+0 1 1 4330 0 0 0 0
+-
+173.252.120.117
+0 1 1 1082 1 1397164925 0 0
+/
+66.249.79.36
+0 1 1 1082 1 1397064981 0 0
+/
+66.249.75.220
+0 2 1 1631 1 1397537579 0 0
+/
+66.249.68.215
+0 1 0 549 0 0 0 0
+-
+66.249.66.200
+0 1 1 1082 1 1396805779 0 0
+/
+66.249.79.68
+0 1 0 549 0 0 0 0
+-
+66.249.64.45
+0 1 1 9945 0 0 0 0
+-
+66.249.70.220
+0 2 1 1631 1 1397019174 0 0
+/
+181.47.55.215
+0 27 23 362124 2 1397317954 0 0
+/
+66.249.75.177
+0 2 1 1631 1 1397421277 0 0
+/
+186.18.97.119
+0 27 23 362004 2 1397401716 0 0
+/
+66.249.68.245
+0 1 1 1082 1 1396500769 0 0
+/
+173.252.110.119
+0 1 1 1082 1 1396542410 0 0
+/
+190.19.94.146
+0 13 11 180461 1 1396994083 0 0
+/
+216.38.216.101
+0 9 9 245753 1 1397254664 0 0
+/
+201.231.161.173
+0 39 27 365594 2 1396908809 0 0
+/usuarios/login
+190.220.149.242
+0 15 14 183278 2 1397058927 0 0
+/
+201.254.119.163
+0 17 11 180032 1 1396661096 0 0
+/usuarios/login
+66.249.65.215
+0 1 1 1082 1 1397278377 0 0
+/
+201.231.193.236
+0 18 16 185991 1 1396718598 0 0
+/
+66.249.68.100
+0 4 2 19504 1 1397324181 0 0
+/
+66.249.76.170
+0 2 1 1631 1 1396759972 0 0
+/
+66.249.70.177
+0 3 2 19301 0 0 0 0
+-
+66.249.76.43
+0 2 0 1098 0 0 0 0
+-
+186.23.101.143
+0 19 17 187313 1 1397254467 0 0
+/usuarios/login
+190.18.77.252
+0 11 10 178830 1 1396882793 0 0
+/
+186.18.43.37
+0 19 18 218804 1 1396510114 0 0
+/usuarios/login
+201.235.131.251
+0 17 15 184909 1 1396568713 0 0
+/usuarios/login
+66.249.64.50
+0 4 3 53549 0 0 0 0
+-
+190.192.79.96
+0 12 11 180032 1 1397601813 0 0
+/usuarios/login
+190.49.244.242
+0 39 29 366849 1 1397493571 0 0
+/
+201.216.212.101
+0 12 10 179379 1 1396634361 0 0
+/
+190.19.18.212
+0 28 27 197584 1 1396473356 0 0
+/usuarios/login
+186.22.188.81
+0 12 10 179379 1 1397509771 0 0
+/
+66.249.68.68
+0 1 1 17324 0 0 0 0
+-
+200.43.32.34
+0 18 12 181114 1 1396612534 0 0
+/usuarios/login
+66.249.68.36
+0 6 6 23772 2 1397583383 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.75.200
+0 1 0 549 0 0 0 0
+-
+66.249.75.220
+0 2 1 1631 1 1397537579 0 0
+/
+190.192.79.96
+0 12 11 180032 1 1397601813 0 0
+/usuarios/login
+66.249.68.36
+0 3 3 19834 1 1397583383 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.mustangsessions.com.ar/assets/js/hogan-2.0.0.js
+1 1
+http://www.mustangsessions.com.ar/assets/js/jquery.js
+1 1
+http://www.mustangsessions.com.ar/assets/js/bootstrap.min.js
+1 1
+https://www.facebook.com/
+0 4
+http://www.mustangsessions.com.ar/usuarios/login
+1 37
+- (Direct Request)
+0 86
+http://www.mustangsessions.com.ar/assets/js//typeahead.js
+1 1
+http://mustangsessions.com.ar/
+1 39
+http://www.mustangsessions.com.ar/assets/js/lib/jquery-ui.custom.min.js
+1 1
+http://www.mustangsessions.com.ar/assets/css/grid.css
+1 10
+http://www.mustangsessions.com.ar/
+1 219
+http://l.facebook.com/l.php
+0 6
+http://www.facebook.com/l.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 38
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 52
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16
+0 19
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0
+0 58
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+0 15
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+0 56
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebkit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:28.0) Gecko/20100101 Firefox/28.0
+0 12
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+0 74
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36 OPR/
+0 39
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

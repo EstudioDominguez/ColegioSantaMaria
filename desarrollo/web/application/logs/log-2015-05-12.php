@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-05-12 03:41:59 --> 404 Page Not Found --> 
+ERROR - 2015-05-12 07:29:44 --> 404 Page Not Found --> 
+ERROR - 2015-05-12 10:12:07 --> 404 Page Not Found --> 
+ERROR - 2015-05-12 14:00:14 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2015-05-12 14:44:03 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2015-05-12 14:44:12 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2015-05-12 14:44:18 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2015-05-12 14:44:35 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2015-05-12 14:44:53 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2015-05-12 14:44:54 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1893
+ERROR - 2015-05-12 14:45:04 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2015-05-12 14:46:13 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2015-05-12 14:46:15 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1893
+ERROR - 2015-05-12 14:46:34 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2015-05-12 14:46:54 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2015-05-12 14:47:48 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2015-05-12 14:47:49 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 2115
+ERROR - 2015-05-12 14:47:52 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710

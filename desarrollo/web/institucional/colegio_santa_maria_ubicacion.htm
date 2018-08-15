@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<title>Colegio Santa María - Ubicación</title>
+<!-- AGREGADO------------------------------------------------------------- -->
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<style type="text/css">
+			body {
+				font-family: Helvetica, Arial, sans-serif;
+				font-size:10px;
+				margin:0;
+			}
+
+			#content {
+
+			}
+		</style>
+		
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		<script type="text/javascript">
+		
+			function initialize() {
+				var latlng = new google.maps.LatLng(-34.445282,-58.921094);
+				var settings = {
+					zoom: 14,
+					center: latlng,
+					mapTypeControl: true,
+					mapTypeControlOptions: {style: google.maps.MapTypeControlStyle.DROPDOWN_MENU},
+					navigationControl: true,
+					navigationControlOptions: {style: google.maps.NavigationControlStyle.SMALL},
+					mapTypeId: google.maps.MapTypeId.ROADMAP};
+				var map = new google.maps.Map(document.getElementById("map_canvas"), settings);
+				var contentString = '<div id="content">'+
+					'<div id="siteNotice">'+
+					'</div>'+
+					'<h1 id="firstHeading" class="firstHeading"><img border="0" src="imagenes/logo_sm4.png" width="80" height="50"><br>Colegio Santa María</h1>'+
+					'<div id="bodyContent">'+
+					'<p>Champagnat 1415 - Acceso Norte Km. 54 - Pilar - Bs. As. - CP 1629  <br>Tel. (0230) 4432498 <br> <a href="mailto:secretaria@colegiosantamaria.com.ar">mail: secretaria@colegiosantamaria.com.ar</p>'+
+					'</div>'+
+					'</div>';
+				var infowindow = new google.maps.InfoWindow({
+					content: contentString
+				});
+				
+				var companyImage = new google.maps.MarkerImage('imagenes/logo_sm4.png',
+					new google.maps.Size(100,50),
+					new google.maps.Point(0,0),
+					new google.maps.Point(0,0)
+				);
+
+				var companyPos = new google.maps.LatLng(-34.439938,-58.923798);
+
+				var companyMarker = new google.maps.Marker({
+					position: companyPos,
+					map: map,
+					icon: companyImage,
+					title:"Colegio Santa María",
+					zIndex: 3});
+				
+				google.maps.event.addListener(companyMarker, 'click', function() {
+					infowindow.open(map,companyMarker);
+				});
+			}
+		</script>
+		
+<!-- AGREGADO------------------------------------------------------------- -->
+
+<script src="../AC_RunActiveContent.js" language="javascript"></script>
+<link rel="stylesheet" type="text/css" href="../estilos.css" />
+
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+
+
+<div style="z-index: 0" id="top">
+	<p align="center">
+
+	<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("Esta página requiere el archivo AC_RunActiveContent.js. En Flash, seleccione \"Aplicar actualización de contenido activo\" en el menú Comandos para copiar el archivo AC_RunActiveContent.js en la carpeta de salida HTML.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+			'width', '980',
+			'height', '194',
+			'src', 'top_colegio',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'transparent',
+			'devicefont', 'false',
+			'id', 'top_colegio',
+			'bgcolor', '#ffffff',
+			'name', 'top_colegio',
+			'menu', 'false',
+			'allowScriptAccess','sameDomain',
+			//----------------insertar redireccion del top-----------------------
+			'movie', '../swf/top_colegio?ir=nosotros&ir2=ubicacion',
+			//-------------------------------------------------------------------
+			'salign', 't'
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="980" height="194" id="top" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="movie" value="../pruebas/maps/top_colegio.swf" /><param name="menu" value="false" /><param name="quality" value="high" /><param name="salign" value="t" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#ffffff" />	<embed src="../pruebas/maps/top_colegio.swf" menu="false" quality="high" salign="t" wmode="transparent" bgcolor="#ffffff" width="980" height="194" name="top" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+	<p>
+	</div>
+
+<div align="center">
+
+<!-- AGREGADO------------------------------------------------------------- -->
+<body onload="initialize()">
+<!-- AGREGADO------------------------------------------------------------- -->
+
+<table border="0" cellpadding="0" width="980" id="table1" style="padding-top: 180px; background-repeat: no-repeat; background-position: right bottom">
+	<tr>
+		<td style="background-position: right bottom; padding-left: 20px; background-image:url('../fondos/fondo_5.jpg'); background-repeat:no-repeat; background-attachment:scroll" height="420" valign="top">
+		<table border="0" cellpadding="0" width="895" id="table2" cellspacing="10">
+			<tr>
+				<td valign="top" width="215" class="texto">
+				<p class="titulos">
+				<span class="Titulos">Ubicación</span><p class="textos"><span class="Textos">Champagnat 1415<br>
+				Acceso Norte Km. 54<br>
+				Pilar - Buenos Aires - CP 1629</span><hr><p class="textosBold"><span class="Textos">Teléfono<br>
+				(0230) 443-2498</span><hr><p class="textos"><span class="Textos"><b>E-mail: </b><br>
+				<a href="mailto:secretaria@colegiosantamaria.com.ar" style="text-decoration: none"><font color="#000000">secretaria@colegiosantamaria.com.ar</font></a></span><hr><p class="textos"><a target="_blank" href="http://goo.gl/maps/jHNWj">Ver acceso en Google Maps</a><p class="textos">&nbsp;</td>
+				<td valign="top" width="20" class="texto">&nbsp;</td>
+				<td width="620" class="texto" valign="bottom">
+				
+				<div id="map_canvas" style="z-index: 0; width:620px; height:320px"></div>
+
+				</td>
+			</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-left: 20px" valign="top">
+		<p class="textosBold"><a target="_blank" href="http://estudiodominguez.com.ar"><img border="0" src="../images/estudio_dominguez.gif" align="right"></a></td>
+	</tr>
+</table>
+
+</div>
+
+</body>
+</html>

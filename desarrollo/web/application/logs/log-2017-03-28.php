@@ -1,0 +1,18 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-28 02:54:00 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-03-28 02:54:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1
+ERROR - 2017-03-28 13:20:29 --> 404 Page Not Found --> 
+ERROR - 2017-03-28 13:21:58 --> 404 Page Not Found --> 
+ERROR - 2017-03-28 14:34:48 --> 404 Page Not Found --> 
+ERROR - 2017-03-28 14:43:14 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2017-03-28 14:44:15 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2017-03-28 14:44:51 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2017-03-28 14:47:40 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2017-03-28 14:47:50 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2017-03-28 14:48:06 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2017-03-28 14:48:30 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2017-03-28 14:49:27 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1962
+ERROR - 2017-03-28 14:49:41 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2017-03-28 22:44:34 --> Severity: Warning  --> Missing argument 3 for Paginas::noticia() /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/paginas/controllers/paginas.php 62
+ERROR - 2017-03-28 22:44:34 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /www/docs/colegiosantamaria.com.ar/public_html/web/system/core/Exceptions.php:185) /www/docs/colegiosantamaria.com.ar/public_html/web/application/modules/templates/views/mustang/frontend.php 1

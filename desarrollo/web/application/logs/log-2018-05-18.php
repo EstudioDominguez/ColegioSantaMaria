@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2018-05-18 11:24:38 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1937
+ERROR - 2018-05-18 11:25:14 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2018-05-18 11:25:15 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1893
+ERROR - 2018-05-18 16:00:50 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2018-05-18 16:00:51 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1893
+ERROR - 2018-05-18 16:00:53 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1930
+ERROR - 2018-05-18 16:01:09 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710
+ERROR - 2018-05-18 16:01:13 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete /www/docs/colegiosantamaria.com.ar/public_html/web/application/libraries/Grocery_CRUD.php 1710

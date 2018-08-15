@@ -1,0 +1,303 @@
+body{
+    background: #fff;
+}
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 970px;
+  background-color: #EAEBEB;
+  padding-bottom: 20px;
+}
+
+h4 {
+  margin-top: 25px;
+}
+.row {
+ /* margin-bottom: 20px;*/
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 10px;  
+  /*background-color: #eee;*/  
+  /*background-color: rgba(86,61,124,.15);*/
+  
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.header{
+  margin-top: 0px;
+  margin-bottom: 40px;
+  background: url(../images/banner.jpg) repeat;
+  margin-left: -15px;
+  margin-right: -15px; 
+  height: 300px;
+  background-repeat:no-repeat;
+  background-position: center center;
+  border-bottom: 0px;  
+}
+
+.menu{
+  margin-top: -30px;   
+  margin-left: -15px;
+  margin-right: -15px; 
+  margin-bottom: -20px;
+}
+
+.input-pedido{
+  width: 60px;
+  background-color: white;
+}
+
+
+/* custom font! */
+/* ------------ */
+
+
+/* scaffolding */
+/* ----------- */
+
+.tt-dropdown-menu,
+.gist {
+  text-align: left;
+}
+
+/* base styles */
+/* ----------- */
+
+
+p {
+  margin: 0 0 10px 0;
+}
+
+/* site theme */
+/* ---------- */
+
+.title {
+  margin: 20px 0 0 0;
+  font-size: 64px;
+}
+
+table,table td{
+  text-align: right;
+}
+
+.precio_insertar{
+  font-size: 20px
+}
+
+.typeahead,
+.tt-query,
+.tt-hint {
+  
+  width: 350px;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 30px;
+  border: 2px solid #ccc;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  outline: none;
+}
+
+.typeahead {
+  background-color: #fff;
+}
+
+.typeahead:focus {
+  border: 2px solid #0097cf;
+}
+
+.tt-query {
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+  color: #999
+}
+
+.tt-dropdown-menu {
+  width: 422px;
+  margin-top: 12px;
+  padding: 8px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+  padding: 3px 20px;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.tt-suggestion.tt-is-under-cursor {
+  color: #fff;
+  background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+
+.gist {
+  font-size: 14px;
+}
+
+/* example specific styles */
+/* ----------------------- */
+
+.example-twitter-oss .tt-suggestion {
+  padding: 8px 20px;
+}
+
+.example-twitter-oss .tt-suggestion + .tt-suggestion {
+  border-top: 1px solid #ccc;
+}
+
+.example-twitter-oss .repo-language {
+  float: right;
+  font-style: italic;
+  font-size: 12px;
+  text-align: right;
+}
+
+.example-twitter-oss .repo-name {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.example-twitter-oss .repo-description {
+  font-size: 14px;
+}
+
+.example-sports .league-name {
+  margin: 0 20px 5px 20px;
+  padding: 3px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.example-arabic .tt-dropdown-menu {
+  text-align: right;
+}
+
+#subscribe{
+    margin: 20px 0;
+}
+#subscribe .btn-block{
+    margin-top: 10px;
+}
+.panel-theme{
+    border:0;
+    border-radius: 6px; 
+}
+.panel-theme .panel-heading{ 
+    background: #2c3e50;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 0;
+    border: 0;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.panel-theme .panel-body{
+    padding: 20px 40px 10px;
+    text-align: center;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+    #subscribe .btn-block{
+        margin: 0;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    #subscribe .btn-block{
+        margin: 0;
+    }
+    #features,#subscribe{
+    margin: 50px 0;
+    }   
+}
+
+@media (min-width: 1200px) {
+    #marketing-text p{
+        padding:0 50px;
+    }
+    #subscribe .btn-block{
+            margin: 0;
+    }
+    #features,#subscribe{
+    margin: 50px 0;
+    }   
+}
+
+/*
+ * Custom Theme Buttons
+ */
+.btn-theme {
+  color: #ffffff;
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  font-weight: 700;
+}
+
+.btn-theme:hover,
+.btn-theme:focus,
+.btn-theme:active,
+.btn-theme.active,
+.open .dropdown-toggle.btn-theme {
+  color: #ffffff;
+  background-color: #bc3e31;
+  border-color: #bc3e31;
+}
+
+.btn-theme:active,
+.btn-theme.active,
+.open .dropdown-toggle.btn-theme {
+  background-image: none;
+}
+
+.btn-theme.disabled,
+.btn-theme[disabled],
+fieldset[disabled] .btn-theme,
+.btn-theme.disabled:hover,
+.btn-theme[disabled]:hover,
+fieldset[disabled] .btn-theme:hover,
+.btn-theme.disabled:focus,
+.btn-theme[disabled]:focus,
+fieldset[disabled] .btn-theme:focus,
+.btn-theme.disabled:active,
+.btn-theme[disabled]:active,
+fieldset[disabled] .btn-theme:active,
+.btn-theme.disabled.active,
+.btn-theme[disabled].active,
+fieldset[disabled] .btn-theme.active {
+  background-color: #bc3e31;
+  border-color: #bc3e31;
+}
+
+.nombre_articulo{
+    text-align: left;
+}
+
+input{
+   /*text-align:center;*/
+}
